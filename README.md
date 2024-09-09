@@ -1,19 +1,19 @@
 # Termos das rifas do PagodaoStore
-Regulamentação das Rifas do PagodaoStore.
+Regulamentação das Rifas do PagodaoStore. [WhatsApp](https://chat.whatsapp.com/EZC5WnXSRsg8iP2WoGPnYi).
 
 
 ## 1. Quantidade de rifas correntes
 As rifas serão identificadas por numeração de série e pelo ano (01/2024). Havendo apenas uma rifa por vez. A rifa perdurará até que seja finalizada (ou seja, todos os bilhetes vendidos), não havendo duas ou mais rifas concorrentes. Em caso de rifas extraordinárias poderão haver mais de uma rifa ocorrendo ao mesmo tempo.
 
 ## 2. Itens rifados
-A princípio, serão sorteados apenas itens do Dota 2, que estarão disponíveis para troca nos perfis:
+A princípio, serão sorteados apenas itens do Dota 2, que serão entregues via Solicitação de Troca na Steam pelos perfis:
 - [Pagodao](https://steamcommunity.com/id/pagodaostore/)
 - [AaronLeão](https://steamcommunity.com/id/aaronleao/)
 
 Em caso de revogação da restrição, este termo sera atualizado e informado nos canais oficiais.
 
 ## 3. Venda dos bilhetes
-O comprador deverá escolher os números desejados e efetuar o pagamento via PIX: gg.pagodao@hotmail.com e enviar o comprovante para rifas.pagodao@gmail.com. Após o recebimento e confirmação do pagamento os números escolhidos serão atualizados como indisponíveis para escolha durante a rifa corrente.
+O comprador deverá escolher os números desejados e efetuar o pagamento via PIX: gg.pagodao@hotmail.com e enviar os comprovantes para o perfil privado do admin do grupo do WhatsApp.(**OPCIONAL:**  enviar o comprovante para rifas.pagodao@gmail.com). Após o recebimento e confirmação do pagamento os números escolhidos serão atualizados como indisponíveis para escolha durante a rifa corrente, e informado no grupo do WhatsApp.
  
 ## 4. Sorteio
 As rifas do PagodaoStore serão contempladas pelo resultado dos Concursos da [Loteria Federal](https://loterias.caixa.gov.br/Paginas/Federal.aspx). A princípio serão **100** bilhetes vendidos por item, portanto os bilhetes terão numeração entre **00** à **99**.  A numeração do bilhete será escolhida de acordo os dois últimos dígitos da numerção Bilhete do 1º Destino da 1ª Série sorteado do Concurso vigente da Loteria Federal, conforme a imagem abaixo ![imagem1](img/rifas_identificacao_bilhete.png)
@@ -28,3 +28,5 @@ Por exemplo:
 - [09/2024](https://www.caixa.gov.br/Downloads/caixa-loterias/Cronograma_09_setembro_2024.pdf)
 - [10/2024](https://www.caixa.gov.br/Downloads/caixa-loterias/Cronograma_10_outubro_2024.pdf)
 - [Futuras datas](https://loterias.caixa.gov.br/Paginas/Calendario-Sorteios.aspx)
+
+## [Rifas passadas](sorteios.md)
