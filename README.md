@@ -21,7 +21,7 @@ As rifas do PagodaoStore serão contempladas pelo resultado dos Concursos da [Lo
 ### 4.1 Concurso da Loteria Federal
 Os Concursos da Loteria Federal ocorrem às Quartas-feiras e Sàbados, excepcionalmente em caso extraoficiais (e.g. feriádos). O concurso que será ultilizado como escolha do bilhete sorteado é o próximo Concurso da Loteria Federal subsequente a partir da data de finalização da venda das rifas.
 Por exemplo: 
-- Se a rifa **XX/YYYY** for finalizada até às **23:59h** da Terça-feira, o Concurso escolhido será o da próxima Quarta-feira (o mesmo vale para rifas finalizadar às Sextas-feiras).
+- Se a rifa **XX/YYYY** for finalizada até às **23:59h** da Terça-feira, o Concurso escolhido será o da próxima Quarta-feira (o mesmo vale para rifas finalizadas às Sextas-feiras).
 - Se a rifa **XX/YYYY** for finalizada na Quarta-feira ou no Sábado, logo o Concurso escolhido será ou o do Sábado ou Quarta-feira respectivamente.
 
 ### 4.2 Cronograma dos Concursos da Loteria Federal
