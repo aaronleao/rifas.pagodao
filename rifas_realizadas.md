@@ -10,3 +10,10 @@
 ![imagem1](img/sniper-ardal.jpg)
 
 # [Voltar](README.md)
+
+- RIFA 03/2024 
+- Valor do bilhete: R$17,00
+- Vencedor: TBA
+![imagem1](img/dragon-claw.jpg)
+
+# [Voltar](README.md)
