@@ -18,7 +18,10 @@ O comprador deverá escolher os números desejados e efetuar o pagamento via PIX
 ## 4. Sorteio
 As rifas do PagodaoStore serão contempladas pelo resultado dos Concursos da [Loteria Federal](https://loterias.caixa.gov.br/Paginas/Federal.aspx). A princípio serão **100** bilhetes vendidos por item, portanto os bilhetes terão numeração entre **00** à **99**.  A numeração do bilhete será escolhida de acordo os dois últimos dígitos da numerção Bilhete do 1º Destino da 1ª Série sorteado do Concurso vigente da Loteria Federal, conforme a imagem abaixo ![imagem1](img/rifas_identificacao_bilhete.png)
 
-### 4.1 Concurso da Loteria Federal
+### 4.1 Rifas com múltiplos prêmios
+As rifas poderão ter até 5 prêmios, que serão distribuídos de acordo com a sequencia dos bilhetes sorteados na coluna Destino do Concursos da [Loteria Federal](https://loterias.caixa.gov.br/Paginas/Federal.aspx), vide ![imagem2](img/multiplos_premios.png).
+
+### 4.2 Concurso da Loteria Federal
 Os Concursos da Loteria Federal ocorrem às Quartas-feiras e Sàbados, excepcionalmente em caso extraoficiais (e.g. feriádos). O concurso que será ultilizado como escolha do bilhete sorteado é o próximo Concurso da Loteria Federal subsequente a partir da data de finalização da venda das rifas.
 Por exemplo: 
 - Se a rifa **XX/YYYY** for finalizada até às **23:59h** da Terça-feira, o Concurso escolhido será o da próxima Quarta-feira (o mesmo vale para rifas finalizadas às Sextas-feiras).
