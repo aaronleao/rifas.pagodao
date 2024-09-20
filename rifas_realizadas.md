@@ -35,7 +35,7 @@
 ## 3. 06/2024 
 - Valor do bilhete: R$4,00
 - Vencedor: 
-![imagem1](img/rifa06_main.jpg
+![imagem1](img/rifa06_main.jpg)
 ![imagem1](img/rifa06_secondary.jpg)
 
 
