@@ -43,12 +43,13 @@ OBS:(Deseja o Ombro da PA)
 
 ![imagem1](img/rifa_04_2024_premeio_05.png)
 - Prêmio 5: Ogre Magi
-    - Vencedor: Matheus GJ
+    - Vencedor: 
 
 ## 05/2024 
-- Valor do bilhete: R$3,00
-- Vencedor: 
 ![imagem1](img/rifa05_main.jpg)
+- Valor do bilhete: R$3,00
+- Vencedor: Rafael GP
+
 ![imagem1](img/rifa05_secondary.jpg)
 
 ## 06/2024 
