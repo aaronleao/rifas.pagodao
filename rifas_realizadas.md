@@ -24,7 +24,7 @@
 
 ![imagem1](img/rifa_04_2024_premeio_02.png)
 - Prêmio 2: Shadow Fiend
-    - Vencedor: [Mascos ASJ]()
+    - Vencedor: [Mascos ASJ](https://steamcommunity.com/tradeoffer/new/?partner=281244886&token=16RI5F-l)
 
 
 ![imagem1](img/rifa_04_2024_premeio_03.png)
