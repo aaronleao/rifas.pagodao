@@ -9,7 +9,6 @@
 - Vencedor: Wagner
 ![imagem1](img/sniper-ardal.jpg)
 
-
 ## 03/2024 
 - Valor do bilhete: R$17,00
 - Vencedor: Aaron
