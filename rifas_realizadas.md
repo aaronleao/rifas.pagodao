@@ -14,8 +14,6 @@
 - Vencedor: Aaron
 ![imagem1](img/dragon-claw.jpg)
 
-# [Voltar](README.md)
-
 ## 04/2024 
 - Valor do bilhete: R$10,70
 ![imagem1](img/rifa_04_2024_premeio_01.png)
