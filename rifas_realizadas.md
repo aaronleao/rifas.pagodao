@@ -49,6 +49,7 @@ OBS:(Deseja o Ombro da PA)
 ![imagem1](img/rifa05_main.jpg)
 - Valor do bilhete: R$3,00
 - Vencedor: Rafael GP
+https://steamcommunity.com/tradeoffer/new/?partner=120216328&token=-CWU_f8A
 
 ![imagem1](img/rifa05_secondary.jpg)
 
