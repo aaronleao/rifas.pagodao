@@ -1,42 +1,70 @@
 # Rifas
-## 1. 01/2024 
+## 01/2024 
 - Valor do bilhete: R$20,00
 - Vencedor: Vinicius
 ![imagem1](img/void-immortals.jpg)
 
-## 2. 02/2024 
+## 02/2024 
 - Valor do bilhete: R$12,00
 - Vencedor: Wagner
 ![imagem1](img/sniper-ardal.jpg)
 
 
-## 3. 03/2024 
+## 03/2024 
 - Valor do bilhete: R$17,00
 - Vencedor: Aaron
 ![imagem1](img/dragon-claw.jpg)
 
 # [Voltar](README.md)
 
-## 3. 04/2024 
+## 04/2024 
 - Valor do bilhete: R$10,70
-- Vencedor: 
 ![imagem1](img/rifa_04_2024_premeio_01.png)
-![imagem1](img/rifa_04_2024_premeio_02.png)
-![imagem1](img/rifa_04_2024_premeio_03.png)
-![imagem1](img/rifa_04_2024_premeio_04.png)
-![imagem1](img/rifa_04_2024_premeio_05.png)
+- Prêmio 1: Terrorblade (Dungeon Doom)
+    - Vencedor: 
 
-## 3. 05/2024 
+![imagem1](img/rifa_04_2024_premeio_02.png)
+- Prêmio 2: Shadow Fiend
+    - Vencedor: 
+
+
+![imagem1](img/rifa_04_2024_premeio_03.png)
+- Prêmio 3: Rubick (Desbloqueada)
+    - Fernando FM
+https://steamcommunity.com/tradeoffer/new/?partner=184004040&token=jUx2ZBLc
+
+
+![imagem1](img/rifa_04_2024_premeio_04.png)
+- Prêmio 4: Juggernaut
+    - Vencedor: Matheus GJ
+https://steamcommunity.com/tradeoffer/new/?partner=99265391&token=3eKzGhAj
+OBS:(Deseja o Ombro da PA)
+
+
+![imagem1](img/rifa_04_2024_premeio_05.png)
+- Prêmio 5: Ogre Magi
+    - Vencedor: Matheus GJ
+
+## 05/2024 
 - Valor do bilhete: R$3,00
 - Vencedor: 
 ![imagem1](img/rifa05_main.jpg)
 ![imagem1](img/rifa05_secondary.jpg)
 
-## 3. 06/2024 
+## 06/2024 
 - Valor do bilhete: R$4,00
-- Vencedor: 
+- Vencedor: Rafael GP
 ![imagem1](img/rifa06_main.jpg)
 ![imagem1](img/rifa06_secondary.jpg)
 
 
 # [Voltar](README.md)
+
+
+🍀 Rifa: 04/2024
+
+
+
+
+🍀 Rifa: 05/2024
+Arcana PA
