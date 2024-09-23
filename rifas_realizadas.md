@@ -57,7 +57,7 @@ OBS:(Deseja o Ombro da PA)
 ## 07/2024 
 - Valor do bilhete: R$20,00
 - Vencedor: 
-![imagem1](img/rifa07_main.jpg)
-![imagem1](img/rifa07_secundario.jpg)
+![imagem1](img/rifa_07_2024_main.png)
+![imagem1](img/rifa_07_2024_secundario.png)
 
 # [Voltar](README.md)
