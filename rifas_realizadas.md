@@ -60,4 +60,16 @@ OBS:(Deseja o Ombro da PA)
 ![imagem1](img/rifa_07_2024_main.png)
 ![imagem1](img/rifa_07_2024_secundario.png)
 
+## 08/2024 
+- Valor do bilhete: R$9,00
+
+### Prêmio 1:
+![imagem1](img/rifa08_01.jpg)
+### Prêmio 2:
+![imagem1](img/rifa08_02.jpg)
+### Prêmio 3:
+![imagem1](img/rifa08_03.jpg)
+### Prêmio 4:
+![imagem1](img/rifa08_04.jpg)
+
 # [Voltar](README.md)
